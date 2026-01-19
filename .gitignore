@@ -1,0 +1,23 @@
+# ================= Unity =================
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# ================= IDE =================
+.vscode/
+.idea/
+
+# ================= OS =================
+.DS_Store
+Thumbs.db
+
+# ================= Generated =================
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
