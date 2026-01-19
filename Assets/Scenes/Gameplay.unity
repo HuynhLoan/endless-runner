@@ -905,11 +905,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 660544851}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13d17dbebdcaef4478d9bd7e0fc889a6, type: 3}
+  m_Script: {fileID: 11500000, guid: ca73547401b6ab34a8aee908e7c88c9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duration: 0.2
-  magnitude: 0.15
+  defaultDuration: 0.2
+  defaultMagnitude: 0.15
 --- !u!1 &673462564
 GameObject:
   m_ObjectHideFlags: 0
