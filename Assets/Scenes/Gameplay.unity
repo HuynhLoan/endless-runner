@@ -2802,7 +2802,7 @@ MonoBehaviour:
   coinPerGrass: 4
   coinSpacing: 0.5
   coinHeight: 0.3
-  airplanePrefab: {fileID: 822508521461765573, guid: 4fd48cf97c69c8a489149e282ae079eb, type: 3}
+  airplanePrefab: {fileID: 5414130023204335530, guid: 189b8eed1f487a74cabea5b197dfd75a, type: 3}
   airplaneHeightRange: {x: 2.5, y: 4.5}
   airplaneChance: 0.2
 --- !u!4 &1810940783
